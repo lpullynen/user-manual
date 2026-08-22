@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="about_compression">
+    <title>About compression</title>
+    <body>
+        <p>The compression effect allows you to dynamically control the output of your guitar. The
+            output is automatically modulated (compressed) based on the combination of factors that
+            you can control on the pedal. </p>
+    </body>
+</topic>

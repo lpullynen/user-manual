@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="controls">
+    <title>Controls</title>
+    <shortdesc>The control knobs on the pedal allow you to shape how your signal is
+        compressed.</shortdesc>
+    <conbody>
+        <div outputclass="side-by-side">
+            <fig id="fig_ldr_dhf_3kc">
+                <title>M87 Bass Compressor Controls</title>
+                <image href="images/Controls.svg" id="image_mdr_dhf_3kc">
+                    <alt>M87 Bass Compressor Controls</alt>
+                </image>
+            </fig>
+            <p>
+                <simpletable keycol="1" frame="none" relcolwidth="1* 9*"
+                    id="simpletable_xh1_2xg_3kc">
+                    <strow>
+                        <stentry>A</stentry>
+                        <stentry>The <b>GAIN REDUCTION</b> meter shows the level of compression
+                            applied in real time.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>B</stentry>
+                        <stentry>The <b>RELEASE</b> knob controls how quickly compression stops
+                            after the signal falls back down.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>C</stentry>
+                        <stentry>The <b>ATTACK</b> knob controls how quickly compression is applied
+                            after a note is played.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>D</stentry>
+                        <stentry>The <b>RATIO</b> determines how strongly the signal is compressed
+                            once it exceeds the threshold. For example, the 4:1 setting means that
+                            any signal with the input level 4 decibels above threshold will only
+                            rise by 1 decibel. This effectively reduces the input gain by 3
+                            decibels.</stentry>
+                    </strow>
+                </simpletable>
+            </p>
+            
+        </div>
+    </conbody>
+</concept>

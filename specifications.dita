@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="specifications">
+    <title>Specifications</title>
+    <refbody><section>
+            <table frame="all" rowsep="1" colsep="1" id="table_atk_13g_3kc">
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <tbody>
+                        <row>
+                            <entry>Input Impedance</entry>
+                            <entry>1 MΩ</entry>
+                        </row>
+                        <row>
+                            <entry>Output Impedance</entry>
+                            <entry>600 Ω</entry>
+                        </row>
+                        <row>
+                            <entry>Max Input Level</entry>
+                            <entry>+14 dBV</entry>
+                        </row>
+                        <row>
+                            <entry>Max Output Level</entry>
+                            <entry>+8.5 dBV</entry>
+                        </row>
+                        <row>
+                            <entry>Frequency Response</entry>
+                            <entry>± dB, 20 Hz to 20 kHz</entry>
+                        </row>
+                        <row>
+                            <entry>Noise floor<fn>A-Weighted, with all controls at the middle
+                                    position.</fn></entry>
+                            <entry>-90 dBV</entry>
+                        </row>
+                        <row>
+                            <entry>Total harmonic distortion (THD)<fn>20 dB gain reduction, 1.1s
+                                    release setting, 50 Hz to 20 kHz.</fn></entry>
+                            <entry>> 0.5 %</entry>
+                        </row>
+                        <row>
+                            <entry>Gain</entry>
+                            <entry>31 dB</entry>
+                        </row>
+                        <row>
+                            <entry>Compression Ratio</entry>
+                            <entry>4:1, 8:1, 12:1, 20:1</entry>
+                        </row>
+                        <row>
+                            <entry>Attack time</entry>
+                            <entry>20 µs to 800 µs</entry>
+                        </row>
+                        <row>
+                            <entry>Release time</entry>
+                            <entry>50 ms to 1.1 s</entry>
+                        </row>
+                        <row>
+                            <entry>Bypass</entry>
+                            <entry>True Hardwire</entry>
+                        </row>
+                        <row>
+                            <entry>Current Draw (LEDs OFF)</entry>
+                            <entry>14 mA</entry>
+                        </row>
+                        <row>
+                            <entry>Current Draw (LEDs ON)</entry>
+                            <entry>19 mA</entry>
+                        </row>
+                        <row>
+                            <entry>Power Supply</entry>
+                            <entry>9 volts DC</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+    </section></refbody>
+</reference>

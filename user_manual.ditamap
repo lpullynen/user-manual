@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>User Manual</title>
+    <title>MXR M87 Bass Compressor</title>
+    <topicref href="description.dita"/>
+    <topicref href="untitled1.dita"/>
+    <topicref href="about_compression.dita">
+        <topicref href="controls.dita"/>
+    </topicref>
+    <topicref href="first_start.dita"/>
+    <topicref href="best_practices.dita"/>
+    <topicref href="specifications.dita"/>
 </map>

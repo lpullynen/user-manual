@@ -1,0 +1,42 @@
+*[outputclass ~= "side-by-side"] > *[class ~= "topic/p"] {
+    display:inline-block;
+    width: 45%;
+}
+
+*[outputclass ~= "side-by-side"] > *[class ~= "topic/fig"] {
+    display:inline-block;
+    width: 45%;
+}
+
+
+*[outputclass ~= "side-by-side"] > *[class ~= "topic/fig"]  > *[class ~= "topic/image"] {
+    width:100%;
+}
+
+*[outputclass ~= "side-by-side"] > *[class ~= "topic/p"] {
+    vertical-align:top;
+}
+
+*[outputclass ~= "side-by-side"] > *[class ~= "topic/fig"] {
+    vertical-align:top;
+    font-size:0pt;
+}
+
+
+*[class ~= "topic/simpletable"] {
+    width: auto;
+}
+
+*[class ~= "topic/strow"] > *[class ~= "topic/stentry"]:first-child {
+    white-space: nowrap;
+}
+
+
+
+
+*[class ~= "map/topicref"] > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before {
+    display: none !important;
+}
+*[class ~= "topic/topic"] > *[class ~= "topic/title"]:before {
+    display: none !important;
+}

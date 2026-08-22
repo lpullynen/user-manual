@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled1">
+    <title>Power</title>
+    <shortdesc>The pedal requires power to operate.</shortdesc>
+    <conbody>
+        <p>You can power the pedal in two ways:<ul>
+                <li>A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to
+                    install the battery.</li>
+                <li>A 9V AC adapter or compatible power supply. Plug the power connector into the
+                    power jack next to the IN jack. </li>
+            </ul></p>
+    </conbody>
+</concept>

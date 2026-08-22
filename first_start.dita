@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="first_start">
+    <title>First start</title>
+    <shortdesc/>
+    <taskbody><context>This is the most basic workflow with the compressor as your only pedal. As your preferences
+            might vary, try to experiment with the knobs to get an effect you enjoy.<p/></context>
+        <steps>
+            <step>
+                <cmd>Plug in the cable from your guitar into the <b>IN</b> jack input.</cmd>
+            </step>
+            <step>
+                <cmd>Run a different cable from the pedal's <b>OUT</b> jack to your amplifier or
+                    audio interface.</cmd>
+            </step>
+            <step>
+                <cmd>You can start off with the following settings:</cmd>
+                <info>
+                    <ol id="ol_uzx_h4g_3kc">
+                        <li>All knobs at 12 o'clock. </li>
+                        <li>Ratio at 4 o'clock.</li>
+                    </ol>
+                    <fig id="fig_ppq_b4g_3kc">
+                        <image placement="inline" href="images/Basic%20settings.svg"
+                            id="image_qpq_b4g_3kc" height="150">
+                            <alt>Basic settings</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Make sure the power is connected and press the footswitch to turn on the pedal.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Looking at the <b>GAIN REDUCTION</b> meter, play the guitar as you would
+                    normally. Rotate the <b>INPUT</b> knob so that you get within a range from 3 to
+                    7 lights on the meter while playing: </cmd>
+                <info>
+                    <fig id="fig_i3z_5mg_3kc">
+                        <image placement="inline" href="images/basic-gain-reduction.svg"
+                            id="image_j3z_5mg_3kc">
+                            <alt>Basic gain reduction</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Rotate the <b>OUTPUT</b> knob to the desired overall volume.</cmd>
+            </step>
+        </steps></taskbody>
+</task>
