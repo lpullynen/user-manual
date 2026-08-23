@@ -2,8 +2,41 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="description">
     <title>Description</title>
-    <shortdesc>M87 Bass Compressor is an effects pedal by MXR.</shortdesc>
+    <shortdesc>MXR M87 Bass Compressor is a compressor pedal for bass guitar.</shortdesc>
     <conbody>
-        <p/>
+        <section id="section_u1q_lgn_3kc">
+            <title>About compression</title>
+            <p>In audio engineering, the compression effect allows you to dynamically control the
+                difference between the loudest and quietest parts of an audio signal. </p>
+            <p>In terms of bass guitar, a dedicated compressor effect can:<ul id="ul_sgq_h1n_3kc">
+                    <li>Improve the volume consistency of played notes.</li>
+                    <li>Increase the sustain of the notes.</li>
+                    <li>Make the quieter nuances more audible in the mix.</li>
+                    <li>Control the sharp peaks from slaps and pops when playing with the slapping
+                        technique. </li>
+                    <li>Help you shape the distorted tone by raising certain frequencies more.</li>
+                </ul></p>
+            <p>In general, all compressors have at least four basic controls: </p>
+            <dl id="dl_fdh_cdn_3kc" compact="yes">
+                <dlentry>
+                    <dt>Threshold</dt>
+                    <dd>The volume above which the compression begins.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Ratio</dt>
+                    <dd>The strength of the compression; the higher the ratio, the more dB is
+                        reduced from the input above the threshold.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Attack</dt>
+                    <dd>The time the compressor starts to reduce the signal after it exceeds the
+                        threshold.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Release</dt>
+                    <dd>The time the compression lasts after it initially reducing the signal.</dd>
+                </dlentry>
+            </dl>
+        </section>
     </conbody>
 </concept>
