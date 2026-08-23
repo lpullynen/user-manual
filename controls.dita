@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="controls">
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="controls">
     <title>Controls</title>
     <shortdesc>The control knobs on the pedal allow you to shape how your signal is
         compressed.</shortdesc>
-    <conbody>
+    <refbody><section>
         <div outputclass="side-by-side">
             <fig id="fig_ldr_dhf_3kc">
                 <title>M87 Bass Compressor Controls</title>
-                <image href="images/Controls.svg" id="image_mdr_dhf_3kc">
+                <image href="images/controls.svg" id="image_mdr_dhf_3kc">
                     <alt>M87 Bass Compressor Controls</alt>
                 </image>
             </fig>
@@ -18,7 +18,8 @@
                     <strow>
                         <stentry>A</stentry>
                         <stentry>The <b>GAIN REDUCTION</b> meter shows the level of compression
-                            applied in real time.</stentry>
+                            applied in real time. If it doesn't light up, it means that the input
+                            signal has not reached the threshold for compression.</stentry>
                     </strow>
                     <strow>
                         <stentry>B</stentry>
@@ -33,14 +34,33 @@
                     <strow>
                         <stentry>D</stentry>
                         <stentry>The <b>RATIO</b> determines how strongly the signal is compressed
-                            once it exceeds the threshold. For example, the 4:1 setting means that
-                            any signal with the input level 4 decibels above threshold will only
-                            rise by 1 decibel. This effectively reduces the input gain by 3
-                            decibels.</stentry>
+                            once it exceeds the threshold. </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>E</stentry>
+                        <stentry>The <b>OUTPUT</b> knob controls the overall volume of the signal
+                            coming out of the pedal. The <b>OUT</b> 1/4" jack on the side of the
+                            pedal connects to an amplifier or other pedals with an instrument
+                            cable.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>F</stentry>
+                        <stentry>The <b>INPUT</b> knob controls the gain of initial signal coming
+                            out of your guitar. The <b>IN</b> 1/4" jack on the side of the pedal
+                            connects to the guitar with an instrument cable. It also acts as a
+                            threshold control.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>G</stentry>
+                        <stentry>The light indicator shows whether the pedal is on or off.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>H</stentry>
+                        <stentry>The footswitch toggles the pedal on or off. </stentry>
                     </strow>
                 </simpletable>
             </p>
             
         </div>
-    </conbody>
-</concept>
+    </section></refbody>
+</reference>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="untitled1">
+    <title>Power</title>
+    <shortdesc>The pedal requires 9V DC to operate.</shortdesc>
+    <conbody>
+        <p>You can power the pedal in two ways:<ul>
+                <li>A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to
+                    install the battery.</li>
+                <li>A 9V AC/DC adapter. Connect it either to a standard AC wall socket or a
+                    compatible power supply. Plug the power connector into the power jack next to
+                    the <b>IN</b> jack for the instrument. </li>
+            </ul></p>
+        <div outputclass="side-by-side">
+            <fig id="fig_w5r_3ym_3kc">
+                <image placement="inline" href="images/side-profile.svg" id="image_gs2_gnm_3kc"/>
+            </fig>
+            <p>
+                <simpletable keycol="1" frame="none" relcolwidth="1* 9*"
+                    id="simpletable_ijp_jym_3kc">
+                    <strow>
+                        <stentry>A</stentry>
+                        <stentry>9V DC center-negative power jack.</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>B</stentry>
+                        <stentry>1/4" jack for the instrument cable. Labeled <b>IN</b> on the front
+                            plate.</stentry>
+                    </strow>
+                </simpletable>
+            </p>
+        </div>
+    </conbody>
+</concept>

@@ -3,11 +3,10 @@
 <map>
     <title>MXR M87 Bass Compressor</title>
     <topicref href="description.dita"/>
-    <topicref href="untitled1.dita"/>
-    <topicref href="about_compression.dita">
-        <topicref href="controls.dita"/>
+    <topicref href="controls.dita"/>
+    <topicref href="power.dita"/>
+    <topicref href="first_start.dita">
+        <topicref href="best_practices.dita"/>
     </topicref>
-    <topicref href="first_start.dita"/>
-    <topicref href="best_practices.dita"/>
     <topicref href="specifications.dita"/>
 </map>
