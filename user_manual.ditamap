@@ -5,8 +5,7 @@
     <topicref href="description.dita"/>
     <topicref href="controls.dita"/>
     <topicref href="power.dita"/>
-    <topicref href="first_start.dita">
-        <topicref href="best_practices.dita"/>
-    </topicref>
+    <topicref href="first_start.dita"/>
+    <topicref href="best_practices.dita"/>
     <topicref href="specifications.dita"/>
 </map>

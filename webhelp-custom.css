@@ -1,0 +1,65 @@
+
+.wh_main_page .wh_search_input, .wh_search_input {
+    background: url('pexels-lucaluperto-11969479.jpg');
+    background-size: cover
+}
+
+.wh_top_menu {
+    display: none;
+}
+.custom-header-link a {
+    padding: .5em 1em;
+    color: white;
+    font-size: 1.4em;
+}
+
+.wh_main_page_toc_entry a, .wh_main_page_toc_entry a:visited {
+    color: #2e2e2e;
+    font-size: large;
+}
+.wh_main_page_toc_entry a:hover {
+    color: #2e2e2e;
+    text-decoration: underline;
+}
+
+.wh_toc_shortdesc {
+    font-size:inherit;
+    padding-left: 37px;
+}
+
+.wh_main_page_toc_entry a[data-id]::before {
+    content: "";
+    display: inline-block;
+    margin-right: 5px;
+    width: 32px;
+    height: 32px;
+    background: var(--toc-icon) no-repeat center;
+    background-size: contain;
+    vertical-align: middle;
+}
+
+.wh_main_page_toc_entry a[data-id="controls"] {
+    --toc-icon: url("icon-controls.svg");
+}
+
+.wh_main_page_toc_entry a[data-id="description"] {
+    --toc-icon: url("icon-description.svg");
+}
+
+.wh_main_page_toc_entry a[data-id="power"] {
+    --toc-icon: url("icon-power.svg");
+}
+
+.wh_main_page_toc_entry a[data-id="first_start"] {
+    --toc-icon: url("icon-first-start.svg");
+}
+
+.wh_main_page_toc_entry a[data-id="best_practices"] {
+    --toc-icon: url("icon-best-practices.svg");
+}
+.wh_main_page_toc_entry a[data-id="specifications"] {
+    --toc-icon: url("icon-specifications.svg");
+}
+.wh_main_page_toc>.wh_main_page_toc_accordion_header, .wh_main_page_toc>.wh_main_page_toc_entry {
+    padding: .5em;
+}
