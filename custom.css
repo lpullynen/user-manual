@@ -1,13 +1,7 @@
 @page {
     size: letter landscape;
 }
-@page chapter {
-    counter-reset: footnote 1;
-}
-*[class ~= "bookmap/chapter"],
-*[class ~= "topic/topic"][is-chapter] {
-    counter-reset: footnote 1;
-}
+
 *[outputclass ~= "side-by-side"] > *[class ~= "topic/p"] {
     display:inline-block;
     width: 45%;
@@ -17,7 +11,6 @@
     display:inline-block;
     width: 45%;
 }
-
 
 *[outputclass ~= "side-by-side"] > *[class ~= "topic/fig"]  > *[class ~= "topic/image"] {
     width:100%;
@@ -32,21 +25,29 @@
     font-size:0pt;
 }
 
-
-*[class ~= "topic/simpletable"] {
-    width: auto;
+@page {
+    @top-left-corner {
+        content: " ";
+        background-image: url('images/mxr-logo-black.svg');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 50%;
+    }
 }
 
-*[class ~= "topic/strow"] > *[class ~= "topic/stentry"]:first-child {
-    white-space: nowrap;
+@page chapter {
+    @bottom-right-corner {
+        content: counter(page, decimal);
+    }
 }
 
-
-
-
-*[class ~= "map/topicref"] > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before {
-    display: none !important;
+*[class ~= "map/topicref"][is-chapter]:not([is-part]) > *[class ~= "map/topicmeta"] > *[class ~= "topic/navtitle"]:before{
+    content: counter(toc-chapter, decimal) ". ";
 }
-*[class ~= "topic/topic"] > *[class ~= "topic/title"]:before {
-    display: none !important;
+*[class ~= "topic/topic"][is-chapter]:not([is-part]) > *[class ~= "topic/title"]:before {
+    content: counter(chapter, decimal) ". ";
+}
+
+*[class ~= "map/map"] > *[class ~= "toc/toc"] + *[class ~= "topic/topic"]{
+    counter-reset: page 1;
 }

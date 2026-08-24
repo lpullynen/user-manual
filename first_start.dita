@@ -2,8 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="first_start">
     <title>First start</title>
-    <taskbody><context>This is a basic workflow with the compressor as your only pedal. As your preferences might
-            vary, try to experiment with all the knobs to get an effect you enjoy.</context>
+    <shortdesc>This is a basic workflow with the compressor as your only pedal. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_wqp_djs_3kc">Before you begin, make sure the pedal has <xref
+                href="power.dita">power</xref>. </prereq><context>Starting from basic settings, try to experiment with all the knobs to get an effect you
+            enjoy.</context>
         <steps>
             <step>
                 <cmd>Plug in the cable from your guitar into the <b>IN</b> jack input.</cmd>
@@ -29,8 +32,7 @@
                 </info>
             </step>
             <step>
-                <cmd>Make sure the power is connected and press the footswitch to turn on the pedal.
-                </cmd>
+                <cmd>Press the footswitch to turn on the pedal. </cmd>
             </step>
             <step>
                 <cmd>Looking at the <b>GAIN REDUCTION</b> meter, rotate the <b>INPUT</b> knob so
@@ -62,5 +64,7 @@
                     effect. For example, the 4:1 setting means that, for every 4dB over the
                     threshold, only 1dB comes through.</cmd>
             </step>
-        </steps></taskbody>
+        </steps>
+        <result id="result_pch_mqs_3kc">Once you have dialed in the compression, you can start
+            playing as-is or add other effects after the compressor in your signal chain.</result></taskbody>
 </task>

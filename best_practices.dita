@@ -2,7 +2,47 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="best_practices">
     <title>Best practices</title>
+    <shortdesc>Things to keep in mind when using compression.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_r1l_fhs_3kc">
+            <title>Ratios</title>
+            <ul id="ul_vxv_dhs_3kc">
+                <li>Start with a more gentle compression ratio (4:1) to simply even out your
+                    dynamics while keeping the natural tone and punch of your bass.</li>
+                <li>The higher your ratio, the more compressed your sound will become, affecting the
+                    tone. </li>
+                <li>A 20:1 ratio is effectively a hard limiter and 12:1 is a soft limiter. For a
+                    "brick wall" effect, use limiters with fast attack and release settings. A slow
+                    release with a fast attack will give you a "breathing" effect. Lower the input
+                    to only apply limiters to the loudest peaks of the signal (like slapping).</li>
+            </ul>
+        </section>
+        <section id="section_pmq_yvs_3kc">
+            <title>Input and threshold</title>
+            <ul id="ul_cjy_zvs_3kc">
+                <li>When dialing in the <b>INPUT</b> knob, observe the <b>GAIN REDUCTION</b> meter.
+                    It shows how much the input signal is hitting the threshold.</li>
+                <li>If you want compression to apply only to the loudest peaks of your playing
+                    without affecting what you consider the normal range, make sure the <b>GAIN
+                        REDUCTION</b> meter does not go further than 3 LEDs while playing normally.
+                    In this case, the meter should only reach above 3 LEDs when you make your
+                    loudest sounds. You might have to raise the ouput volume to compensate for the
+                    lower input.</li>
+            </ul>
+        </section>
+        <section id="section_jtn_txs_3kc">
+            <title>Other tips</title>
+            <ul id="ul_kbk_5xs_3kc">
+                <li>To get the best results with the highly distorted tones, split the bass signal
+                    by sending the low end into a compressor and the high end into a distortion.
+                    This requires separate gear to split by frequency.</li>
+                <li>If you use an EQ, it's generally better to use it after the compressor in the
+                    signal chain.</li>
+                <li>If you are a beginner, you might want to practice without a compressor to
+                    develop your natural dynamics.</li>
+            </ul>
+            <p/>
+        </section>
+        <p/>
     </body>
 </topic>

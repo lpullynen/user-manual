@@ -3,7 +3,8 @@
 This project is a user manual for the MXR's **M87 Bass Compressor** pedal.
 
 * It is structured in DITA XML using its own page format and styles for the PDF output and transformation. 
-* All graphics are done in vector from scratch. They are included in the images folder for proof. 
+* All graphics are done in vector from scratch. They are included in the images folder for proof.
+* Due to small size, the project doesn't include content reuse or profiling at the moment.
 
 ## Disclaimer
 

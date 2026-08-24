@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="description" path="description.html"/>
+   <appContext helpID="controls" path="controls.html"/>
+   <appContext helpID="power" path="power.html"/>
+   <appContext helpID="first_start" path="first_start.html"/>
+   <appContext helpID="best_practices" path="best_practices.html"/>
+   <appContext helpID="specifications" path="specifications.html"/>
+</map>
