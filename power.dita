@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="power">
     <title>Power</title>
-    <shortdesc>The pedal requires 9V DC to operate.</shortdesc>
+    <shortdesc>The pedal requires 9V DC power to operate.</shortdesc>
     <conbody>
         <p>You can power the pedal in two ways:<ul>
                 <li>A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to

@@ -29,8 +29,8 @@
                 </dlentry>
                 <dlentry>
                     <dt>Attack</dt>
-                    <dd>The time the compressor starts to reduce the signal after it exceeds the
-                        threshold.</dd>
+                    <dd>The time it takes for the compressor to start reducing the signal after it
+                        exceeds the threshold.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>Release</dt>

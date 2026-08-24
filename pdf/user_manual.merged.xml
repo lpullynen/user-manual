@@ -2,7 +2,7 @@
     <title class="- topic/title ">MXR M87 Bass Compressor</title>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="description"><resourceid appid="description" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Description</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">MXR M87 Bass Compressor is a compressor pedal for bass guitar.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="controls"><resourceid appid="controls" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Controls</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc></topicmeta></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="power"><resourceid appid="power" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Power</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The pedal requires 9V DC to operate.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="power"><resourceid appid="power" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Power</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The pedal requires 9V DC power to operate.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="first_start"><resourceid appid="first_start" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">First start</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a basic workflow with the compressor as your only pedal. </shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="best_practices"><resourceid appid="best_practices" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Best practices</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Things to keep in mind when using compression.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="specifications"><resourceid appid="specifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Specifications</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The list of technical details of the MXR M87 Bass Compressor.</shortdesc></topicmeta></topicref>
@@ -29,8 +29,8 @@
                 </dlentry>
                 <dlentry class="- topic/dlentry ">
                     <dt class="- topic/dt ">Attack</dt>
-                    <dd class="- topic/dd ">The time the compressor starts to reduce the signal after it exceeds the
-                        threshold.</dd>
+                    <dd class="- topic/dd ">The time it takes for the compressor to start reducing the signal after it
+                        exceeds the threshold.</dd>
                 </dlentry>
                 <dlentry class="- topic/dlentry ">
                     <dt class="- topic/dt ">Release</dt>
@@ -51,7 +51,7 @@
                 <simpletable class="- topic/simpletable " frame="none" id="unique_2_Connect_42_simpletable_xh1_2xg_3kc" nd:nd-id="simpletable_xh1_2xg_3kc" keycol="1" relcolwidth="1* 9*">
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">The <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter shows the level of compression
                                 applied in real time. If it doesn't light up, it means that the
-                                input signal has not reached the fixed hreshold for
+                                input signal has not reached the fixed threshold for
                                 compression.</stentry></strow>
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">The <b class="+ topic/ph hi-d/b ">RELEASE</b> knob controls how quickly compression stops
                             after the signal falls back down.</stentry></strow>
@@ -75,7 +75,7 @@
     </section></refbody>
 </reference><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="power" oid="power" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Power</ph></title>
-    <shortdesc class="- topic/shortdesc ">The pedal requires 9V DC to operate.</shortdesc>
+    <shortdesc class="- topic/shortdesc ">The pedal requires 9V DC power to operate.</shortdesc>
     <conbody class="- topic/body  concept/conbody ">
         <p class="- topic/p ">You can power the pedal in two ways:<ul class="- topic/ul "><li class="- topic/li ">A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to
                     install the battery.</li><li class="- topic/li ">A 9V AC/DC adapter. Connect it either to a standard AC wall socket or a
@@ -96,7 +96,7 @@
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">First start</ph></title>
     <shortdesc class="- topic/shortdesc ">This is a basic workflow with the compressor as your only pedal. </shortdesc>
     <taskbody class="- topic/body task/taskbody ">
-        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_wqp_djs_3kc" nd:nd-id="prereq_wqp_djs_3kc">Before you begin, make sure the pedal has <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>power<?ditaot genshortdesc?><desc class="- topic/desc ">The pedal requires 9V DC to operate.</desc></xref>. </prereq><context class="- topic/section task/context ">Starting from basic settings, try to experiment with all the knobs to get an effect you
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_wqp_djs_3kc" nd:nd-id="prereq_wqp_djs_3kc">Before you begin, make sure the pedal has <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>power<?ditaot genshortdesc?><desc class="- topic/desc ">The pedal requires 9V DC power to operate.</desc></xref>. </prereq><context class="- topic/section task/context ">Starting from basic settings, try to experiment with all the knobs to get an effect you
             enjoy.</context>
         <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Plug in the cable from your guitar into the <b class="+ topic/ph hi-d/b ">IN</b> jack input.</cmd>
@@ -166,12 +166,10 @@
             <title class="- topic/title ">Other tips</title>
             <ul class="- topic/ul " id="unique_5_Connect_42_ul_kbk_5xs_3kc" nd:nd-id="ul_kbk_5xs_3kc"><li class="- topic/li ">To get the best results with the highly distorted tones, split the bass signal
                     by sending the low end into a compressor and the high end into a distortion.
-                    This requires separate gear to split by frequency.</li><li class="- topic/li ">If you use an EQ, it's generally better to use it after the compressor in the
+                    This requires separate gear to split by frequencies.</li><li class="- topic/li ">If you use an EQ, it's generally better to use it after the compressor in the
                     signal chain.</li><li class="- topic/li ">If you are a beginner, you might want to practice without a compressor to
                     develop your natural dynamics.</li></ul>
-            <p class="- topic/p "/>
         </section>
-        <p class="- topic/p "/>
     </body>
 </topic><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="specifications" oid="specifications" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Specifications</ph></title>
