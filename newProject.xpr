@@ -15,15 +15,18 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>DITA Map WebHelp Responsive - Copy</String>
+                                        <String>DITA Map PDF - based on HTML5 &amp; CSS - Copy</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -67,7 +70,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/pdf-css-html5</String>
+                                    <String>${cfd}/pdf</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/pdf-css-html5</String>
@@ -272,7 +275,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${cfd}/out/webhelp-responsive</String>
+                                    <String>${cfd}/webhelp-responsive</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/webhelp-responsive</String>
@@ -514,13 +517,45 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
+                                                <String>nav-toc</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>full</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>none</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>none</String>
+                                                    <String>partial</String>
+                                                    <String>full</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String>No TOC</String>
+                                                    <String>Partial TOC that shows the current topic</String>
+                                                    <String>Full TOC</String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
                                                 <String>webhelp.custom.resources</String>
                                             </field>
                                             <field name="description">
                                                 <null/>
                                             </field>
                                             <field name="value">
-                                                <String>${pd}/images</String>
+                                                <String>${pd}/webhelp-resources</String>
                                             </field>
                                             <field name="defaultValue">
                                                 <null/>
@@ -696,6 +731,68 @@
                                         </ditaParameter>
                                         <ditaParameter>
                                             <field name="name">
+                                                <String>webhelp.show.publication.toc</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>yes</String>
+                                                    <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>webhelp.publication.toc.links</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>all</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>chapter</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>topic</String>
+                                                    <String>chapter</String>
+                                                    <String>all</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String>The Publication TOC will include only the links to the current topic and its children.</String>
+                                                    <String>The Publication TOC will include the links to the current topic, its children, and its ancestors.</String>
+                                                    <String>The Publication TOC will include all links.</String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
                                                 <String>webhelp.fragment.after.top_menu</String>
                                             </field>
                                             <field name="description">
@@ -717,6 +814,42 @@
                                             </field>
                                             <field name="possibleValuesDescriptions">
                                                 <String-array>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>webhelp.publication.toc.tooltip.position</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>bottom</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>right</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>right</String>
+                                                    <String>left</String>
+                                                    <String>top</String>
+                                                    <String>bottom</String>
+                                                    <String>hidden</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                    <String></String>
+                                                    <String></String>
                                                     <String></String>
                                                 </String-array>
                                             </field>

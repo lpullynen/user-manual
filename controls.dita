@@ -2,12 +2,10 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="controls">
     <title>Controls</title>
-    <shortdesc>The control knobs on the pedal allow you to shape how your signal is
-        compressed.</shortdesc>
+    <shortdesc>Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc>
     <refbody><section>
         <div outputclass="side-by-side">
             <fig id="fig_ldr_dhf_3kc">
-                <title>M87 Bass Compressor Controls</title>
                 <image href="images/controls.svg" id="image_mdr_dhf_3kc">
                     <alt>M87 Bass Compressor Controls</alt>
                 </image>
@@ -18,8 +16,9 @@
                     <strow>
                         <stentry>A</stentry>
                         <stentry>The <b>GAIN REDUCTION</b> meter shows the level of compression
-                            applied in real time. If it doesn't light up, it means that the input
-                            signal has not reached the threshold for compression.</stentry>
+                                applied in real time. If it doesn't light up, it means that the
+                                input signal has not reached the fixed hreshold for
+                                compression.</stentry>
                     </strow>
                     <strow>
                         <stentry>B</stentry>
@@ -46,9 +45,8 @@
                     <strow>
                         <stentry>F</stentry>
                         <stentry>The <b>INPUT</b> knob controls the gain of initial signal coming
-                            out of your guitar. The <b>IN</b> 1/4" jack on the side of the pedal
-                            connects to the guitar with an instrument cable. It also acts as a
-                            threshold control.</stentry>
+                                out of your guitar. The <b>IN</b> 1/4" jack on the side of the pedal
+                                connects to the guitar with an instrument cable.</stentry>
                     </strow>
                     <strow>
                         <stentry>G</stentry>

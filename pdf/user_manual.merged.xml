@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/user_manual.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">MXR M87 Bass Compressor</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">MXR M87 Bass Compressor</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="description"><resourceid appid="description" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Description</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">MXR M87 Bass Compressor is a compressor pedal for bass guitar.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="controls"><resourceid appid="controls" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Controls</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="power"><resourceid appid="power" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Power</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The pedal requires 9V DC to operate.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="first_start"><resourceid appid="first_start" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">First start</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This is a basic workflow with the compressor as your only pedal. </shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="best_practices"><resourceid appid="best_practices" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Best practices</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Things to keep in mind when using compression.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="specifications"><resourceid appid="specifications" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Specifications</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The list of technical details of the MXR M87 Bass Compressor.</shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="description" oid="description" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Description</ph></title>
+    <shortdesc class="- topic/shortdesc ">MXR M87 Bass Compressor is a compressor pedal for bass guitar.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section " id="unique_1_Connect_42_section_u1q_lgn_3kc" nd:nd-id="section_u1q_lgn_3kc">
+            <title class="- topic/title ">About compression</title>
+            <p class="- topic/p ">In audio engineering, the compression effect allows you to dynamically control the
+                difference between the loudest and quietest parts of an audio signal. </p>
+            <p class="- topic/p ">In terms of bass guitar, a dedicated compressor effect can:<ul class="- topic/ul " id="unique_1_Connect_42_ul_sgq_h1n_3kc" nd:nd-id="ul_sgq_h1n_3kc"><li class="- topic/li ">Improve the volume consistency of played notes.</li><li class="- topic/li ">Increase the sustain of the notes.</li><li class="- topic/li ">Make the quieter nuances more audible in the mix.</li><li class="- topic/li ">Control the sharp peaks from slaps and pops when playing with the slapping
+                        technique. </li><li class="- topic/li ">Help you shape the distorted tone by raising certain frequencies more.</li></ul></p>
+            <p class="- topic/p ">In general, all compressors have at least four basic controls: </p>
+            <dl class="- topic/dl " compact="yes" id="unique_1_Connect_42_dl_fdh_cdn_3kc" nd:nd-id="dl_fdh_cdn_3kc">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Threshold</dt>
+                    <dd class="- topic/dd ">The volume above which the compression begins.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Ratio</dt>
+                    <dd class="- topic/dd ">The strength of the compression; the higher the ratio, the more dB is
+                        reduced from the input above the threshold.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Attack</dt>
+                    <dd class="- topic/dd ">The time the compressor starts to reduce the signal after it exceeds the
+                        threshold.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Release</dt>
+                    <dd class="- topic/dd ">The time the compression lasts after it initially reducing the signal.</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </conbody>
+</concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="controls" oid="controls" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Controls</ph></title>
+    <shortdesc class="- topic/shortdesc ">Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc>
+    <refbody class="- topic/body        reference/refbody "><section class="- topic/section ">
+        <div class="- topic/div " outputclass="side-by-side">
+            <fig class="- topic/fig " id="unique_2_Connect_42_fig_ldr_dhf_3kc" nd:nd-id="fig_ldr_dhf_3kc"><image class="- topic/image " dita-ot:image-width="513" dita-ot:image-height="469" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/controls.svg" id="unique_2_Connect_42_image_mdr_dhf_3kc" nd:nd-id="image_mdr_dhf_3kc" placement="inline">
+                    <alt class="- topic/alt ">M87 Bass Compressor Controls</alt>
+                </image></fig>
+            <p class="- topic/p ">
+                <simpletable class="- topic/simpletable " frame="none" id="unique_2_Connect_42_simpletable_xh1_2xg_3kc" nd:nd-id="simpletable_xh1_2xg_3kc" keycol="1" relcolwidth="1* 9*">
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">The <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter shows the level of compression
+                                applied in real time. If it doesn't light up, it means that the
+                                input signal has not reached the fixed hreshold for
+                                compression.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">The <b class="+ topic/ph hi-d/b ">RELEASE</b> knob controls how quickly compression stops
+                            after the signal falls back down.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">C</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">The <b class="+ topic/ph hi-d/b ">ATTACK</b> knob controls how quickly compression is applied
+                            after a note is played.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">D</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">The <b class="+ topic/ph hi-d/b ">RATIO</b> determines how strongly the signal is compressed
+                            once it exceeds the threshold. </stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">E</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">The <b class="+ topic/ph hi-d/b ">OUTPUT</b> knob controls the overall volume of the signal
+                            coming out of the pedal. The <b class="+ topic/ph hi-d/b ">OUT</b> 1/4" jack on the side of the
+                            pedal connects to an amplifier or other pedals with an instrument
+                            cable.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">F</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">The <b class="+ topic/ph hi-d/b ">INPUT</b> knob controls the gain of initial signal coming
+                                out of your guitar. The <b class="+ topic/ph hi-d/b ">IN</b> 1/4" jack on the side of the pedal
+                                connects to the guitar with an instrument cable.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">G</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">The light indicator shows whether the pedal is on or off.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">H</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">The footswitch toggles the pedal on or off. </stentry></strow>
+                </simpletable>
+            </p>
+            
+        </div>
+    </section></refbody>
+</reference><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="power" oid="power" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Power</ph></title>
+    <shortdesc class="- topic/shortdesc ">The pedal requires 9V DC to operate.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">You can power the pedal in two ways:<ul class="- topic/ul "><li class="- topic/li ">A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to
+                    install the battery.</li><li class="- topic/li ">A 9V AC/DC adapter. Connect it either to a standard AC wall socket or a
+                    compatible power supply. Plug the power connector into the power jack next to
+                    the <b class="+ topic/ph hi-d/b ">IN</b> jack for the instrument. </li></ul></p>
+        <div class="- topic/div " outputclass="side-by-side">
+            <fig class="- topic/fig " id="unique_3_Connect_42_fig_w5r_3ym_3kc" nd:nd-id="fig_w5r_3ym_3kc"><image class="- topic/image " dita-ot:image-width="522" dita-ot:image-height="292" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/side-profile.svg" id="unique_3_Connect_42_image_gs2_gnm_3kc" nd:nd-id="image_gs2_gnm_3kc" placement="inline"/></fig>
+            <p class="- topic/p ">
+                <simpletable class="- topic/simpletable " frame="none" id="unique_3_Connect_42_simpletable_ijp_jym_3kc" nd:nd-id="simpletable_ijp_jym_3kc" keycol="1" relcolwidth="1* 9*">
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">9V DC center-negative power jack.</stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">1/4" jack for the instrument cable. Labeled <b class="+ topic/ph hi-d/b ">IN</b> on the front
+                            plate.</stentry></strow>
+                </simpletable>
+            </p>
+        </div>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="first_start" oid="first_start" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">First start</ph></title>
+    <shortdesc class="- topic/shortdesc ">This is a basic workflow with the compressor as your only pedal. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_wqp_djs_3kc" nd:nd-id="prereq_wqp_djs_3kc">Before you begin, make sure the pedal has <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>power<?ditaot genshortdesc?><desc class="- topic/desc ">The pedal requires 9V DC to operate.</desc></xref>. </prereq><context class="- topic/section task/context ">Starting from basic settings, try to experiment with all the knobs to get an effect you
+            enjoy.</context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Plug in the cable from your guitar into the <b class="+ topic/ph hi-d/b ">IN</b> jack input.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run a different cable from the pedal's <b class="+ topic/ph hi-d/b ">OUT</b> jack to your amplifier or
+                    audio interface.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">You can start off with the following settings on the pedal:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol " id="unique_4_Connect_42_ol_uzx_h4g_3kc" nd:nd-id="ol_uzx_h4g_3kc"><li class="- topic/li "><b class="+ topic/ph hi-d/b ">RELEASE</b>, <b class="+ topic/ph hi-d/b ">ATTACK</b>, <b class="+ topic/ph hi-d/b ">OUTPUT</b>, and <b class="+ topic/ph hi-d/b ">INPUT</b> knobs at
+                            12 o'clock. </li><li class="- topic/li "><b class="+ topic/ph hi-d/b ">RATIO</b> at 4 o'clock.</li></ol>
+                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_ppq_b4g_3kc" nd:nd-id="fig_ppq_b4g_3kc"><image class="- topic/image " height="150" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-settings.svg" id="unique_4_Connect_42_image_qpq_b4g_3kc" nd:nd-id="image_qpq_b4g_3kc" placement="inline">
+                            <alt class="- topic/alt ">Basic settings</alt>
+                        </image></fig>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the footswitch to turn on the pedal. </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Looking at the <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter, rotate the <b class="+ topic/ph hi-d/b ">INPUT</b> knob so
+                    that you see a range from 3 to 7 lights on the meter while playing your guitar
+                    normally: </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_i3z_5mg_3kc" nd:nd-id="fig_i3z_5mg_3kc"><image class="- topic/image " dita-ot:image-width="114" dita-ot:image-height="51" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-gain-reduction.svg" id="unique_4_Connect_42_image_j3z_5mg_3kc" nd:nd-id="image_j3z_5mg_3kc" placement="inline">
+                            <alt class="- topic/alt ">Basic gain reduction</alt>
+                        </image></fig>
+                </info>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">OUTPUT</b> knob to the desired overall volume.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">ATTACK</b> knob clockwise to soften the initial attack of your
+                    note or counterclockwise to accentuate it. </cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">RELEASE</b> knob clockwise to make the compression effect last
+                    longer or counterclockwise to make it fade faster.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Use the <b class="+ topic/ph hi-d/b ">RATIO</b> knob to define the strength of compression. The bigger the
+                    setting (up to 20:1), the more volume will be decreased when compression is in
+                    effect. For example, the 4:1 setting means that, for every 4dB over the
+                    threshold, only 1dB comes through.</cmd>
+            </step></steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_pch_mqs_3kc" nd:nd-id="result_pch_mqs_3kc">Once you have dialed in the compression, you can start
+            playing as-is or add other effects after the compressor in your signal chain.</result></taskbody>
+</task><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="best_practices" oid="best_practices" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Best practices</ph></title>
+    <shortdesc class="- topic/shortdesc ">Things to keep in mind when using compression.</shortdesc>
+    <body class="- topic/body ">
+        <section class="- topic/section " id="unique_5_Connect_42_section_r1l_fhs_3kc" nd:nd-id="section_r1l_fhs_3kc">
+            <title class="- topic/title ">Ratios</title>
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_vxv_dhs_3kc" nd:nd-id="ul_vxv_dhs_3kc"><li class="- topic/li ">Start with a more gentle compression ratio (4:1) to simply even out your
+                    dynamics while keeping the natural tone and punch of your bass.</li><li class="- topic/li ">The higher your ratio, the more compressed your sound will become, affecting the
+                    tone. </li><li class="- topic/li ">A 20:1 ratio is effectively a hard limiter and 12:1 is a soft limiter. For a
+                    "brick wall" effect, use limiters with fast attack and release settings. A slow
+                    release with a fast attack will give you a "breathing" effect. Lower the input
+                    to only apply limiters to the loudest peaks of the signal (like slapping).</li></ul>
+        </section>
+        <section class="- topic/section " id="unique_5_Connect_42_section_pmq_yvs_3kc" nd:nd-id="section_pmq_yvs_3kc">
+            <title class="- topic/title ">Input and threshold</title>
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_cjy_zvs_3kc" nd:nd-id="ul_cjy_zvs_3kc"><li class="- topic/li ">When dialing in the <b class="+ topic/ph hi-d/b ">INPUT</b> knob, observe the <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter.
+                    It shows how much the input signal is hitting the threshold.</li><li class="- topic/li ">If you want compression to apply only to the loudest peaks of your playing
+                    without affecting what you consider the normal range, make sure the <b class="+ topic/ph hi-d/b ">GAIN
+                        REDUCTION</b> meter does not go further than 3 LEDs while playing normally.
+                    In this case, the meter should only reach above 3 LEDs when you make your
+                    loudest sounds. You might have to raise the ouput volume to compensate for the
+                    lower input.</li></ul>
+        </section>
+        <section class="- topic/section " id="unique_5_Connect_42_section_jtn_txs_3kc" nd:nd-id="section_jtn_txs_3kc">
+            <title class="- topic/title ">Other tips</title>
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_kbk_5xs_3kc" nd:nd-id="ul_kbk_5xs_3kc"><li class="- topic/li ">To get the best results with the highly distorted tones, split the bass signal
+                    by sending the low end into a compressor and the high end into a distortion.
+                    This requires separate gear to split by frequency.</li><li class="- topic/li ">If you use an EQ, it's generally better to use it after the compressor in the
+                    signal chain.</li><li class="- topic/li ">If you are a beginner, you might want to practice without a compressor to
+                    develop your natural dynamics.</li></ul>
+            <p class="- topic/p "/>
+        </section>
+        <p class="- topic/p "/>
+    </body>
+</topic><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="specifications" oid="specifications" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Specifications</ph></title>
+    <shortdesc class="- topic/shortdesc ">The list of technical details of the MXR M87 Bass Compressor.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <properties class="- topic/simpletable reference/properties " id="unique_6_Connect_42_table_atk_13g_3kc" nd:nd-id="table_atk_13g_3kc">
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="1">Input Impedance</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="1">1 MΩ</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="2">Output Impedance</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="2">600 Ω</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="3">Max Input Level</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="3">+14 dBV</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="4">Max Output Level</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="4">+8.5 dBV</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="5">Frequency Response</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="5">±1 dB, 20 Hz to 20 kHz</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="6">Noise floor</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="6">-90 dBV</propvalue><propdesc class="- topic/stentry     reference/propdesc " dita-ot:x="3" dita-ot:y="6"> A-Weighted, with all controls at the middle position. </propdesc></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="7">Total harmonic distortion (THD)</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="7">&gt; 0.5 %</propvalue><propdesc class="- topic/stentry     reference/propdesc " dita-ot:x="3" dita-ot:y="7"> 20 dB gain reduction, 1.1s release setting, 50 Hz to 20 kHz. </propdesc></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="8">Gain</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="8">31 dB</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="9">Compression Ratio</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="9">4:1, 8:1, 12:1, 20:1</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="10">Attack time</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="10">20 µs to 800 µs</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="11">Release time</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="11">50 ms to 1.1 s</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="12">Bypass</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="12">True Hardwire</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="13">Current Draw (LEDs OFF)</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="13">14 mA</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="14">Current Draw (LEDs ON)</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="14">19 mA</propvalue></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="15">Power Supply</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="15">9V DC</propvalue></property>
+        </properties>
+    </refbody>
+</reference></map>
