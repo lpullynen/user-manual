@@ -6,6 +6,10 @@ This project is a user manual for the MXR's **M87 Bass Compressor** pedal.
 * All graphics are done in vector from scratch. They are included in the images folder for proof.
 * Due to small size, the project doesn't include content reuse or profiling at the moment.
 
+## Outputs
+* The webhelp site is hosted on GitHub Pages: https://lpullynen.github.io/user-manual/
+* The PDF output is in the [PDF](pdf) folder.
+  
 ## Disclaimer
 
 This is an independent portfolio project based on the [MXR M87 Bass Compressor](https://www.jimdunlop.com/mxr-bass-compressor/) guitar pedal by Dunlop.
