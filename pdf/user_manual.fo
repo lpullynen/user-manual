@@ -331,7 +331,7 @@
                                             best results with the highly distorted tones, split the
                                             bass signal by sending the low end into a compressor and
                                             the high end into a distortion. This requires separate
-                                            gear to split by frequencies.</fo:block></fo:list-item-body></fo:list-item>
+                                            gear to split the signal into frequency bands.</fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">• </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>If you use
                                             an EQ, it's generally better to use it after the
                                             compressor in the signal chain.</fo:block></fo:list-item-body></fo:list-item>

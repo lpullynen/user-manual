@@ -166,7 +166,7 @@
             <title class="- topic/title ">Other tips</title>
             <ul class="- topic/ul " id="unique_5_Connect_42_ul_kbk_5xs_3kc" nd:nd-id="ul_kbk_5xs_3kc"><li class="- topic/li ">To get the best results with the highly distorted tones, split the bass signal
                     by sending the low end into a compressor and the high end into a distortion.
-                    This requires separate gear to split by frequencies.</li><li class="- topic/li ">If you use an EQ, it's generally better to use it after the compressor in the
+                    This requires separate gear to split the signal into frequency bands.</li><li class="- topic/li ">If you use an EQ, it's generally better to use it after the compressor in the
                     signal chain.</li><li class="- topic/li ">If you are a beginner, you might want to practice without a compressor to
                     develop your natural dynamics.</li></ul>
         </section>
