@@ -49,22 +49,22 @@
                 </image></fig>
             <p class="- topic/p ">
                 <simpletable class="- topic/simpletable " frame="none" id="unique_2_Connect_42_simpletable_xh1_2xg_3kc" nd:nd-id="simpletable_xh1_2xg_3kc" keycol="1" relcolwidth="1* 9*">
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">The <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter shows the level of compression
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">The <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter shows the level of compression
                                 applied in real time. If it doesn't light up, it means that the
                                 input signal has not reached the fixed threshold for
                                 compression.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">The <b class="+ topic/ph hi-d/b ">RELEASE</b> knob controls how quickly compression stops
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">The <uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol> knob controls how quickly compression stops
                             after the signal falls back down.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">C</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">The <b class="+ topic/ph hi-d/b ">ATTACK</b> knob controls how quickly compression is applied
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">C</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">The <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol> knob controls how quickly compression is applied
                             after a note is played.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">D</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">The <b class="+ topic/ph hi-d/b ">RATIO</b> determines how strongly the signal is compressed
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">D</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">The <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> determines how strongly the signal is compressed
                             once it exceeds the threshold. </stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">E</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">The <b class="+ topic/ph hi-d/b ">OUTPUT</b> knob controls the overall volume of the signal
-                            coming out of the pedal. The <b class="+ topic/ph hi-d/b ">OUT</b> 1/4" jack on the side of the
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">E</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">The <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol> knob controls the overall volume of the signal
+                            coming out of the pedal. The <uicontrol class="+ topic/ph ui-d/uicontrol ">OUT</uicontrol> 1/4" jack on the side of the
                             pedal connects to an amplifier or other pedals with an instrument
                             cable.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">F</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">The <b class="+ topic/ph hi-d/b ">INPUT</b> knob controls the gain of initial signal coming
-                                out of your guitar. The <b class="+ topic/ph hi-d/b ">IN</b> 1/4" jack on the side of the pedal
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="6">F</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="6">The <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knob controls the gain of initial signal coming
+                                out of your guitar. The <uicontrol class="+ topic/ph ui-d/uicontrol ">IN</uicontrol> 1/4" jack on the side of the pedal
                                 connects to the guitar with an instrument cable.</stentry></strow>
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="7">G</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="7">The light indicator shows whether the pedal is on or off.</stentry></strow>
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="8">H</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="8">The footswitch toggles the pedal on or off. </stentry></strow>
@@ -80,13 +80,13 @@
         <p class="- topic/p ">You can power the pedal in two ways:<ul class="- topic/ul "><li class="- topic/li ">A standard 9V battery. Remove the bottom lid of the pedal with a screwdriver to
                     install the battery.</li><li class="- topic/li ">A 9V AC/DC adapter. Connect it either to a standard AC wall socket or a
                     compatible power supply. Plug the power connector into the power jack next to
-                    the <b class="+ topic/ph hi-d/b ">IN</b> jack for the instrument. </li></ul></p>
+                    the <uicontrol class="+ topic/ph ui-d/uicontrol ">IN</uicontrol> jack for the instrument. </li></ul></p>
         <div class="- topic/div " outputclass="side-by-side">
             <fig class="- topic/fig " id="unique_3_Connect_42_fig_w5r_3ym_3kc" nd:nd-id="fig_w5r_3ym_3kc"><image class="- topic/image " dita-ot:image-width="522" dita-ot:image-height="292" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/side-profile.svg" id="unique_3_Connect_42_image_gs2_gnm_3kc" nd:nd-id="image_gs2_gnm_3kc" placement="inline"/></fig>
             <p class="- topic/p ">
                 <simpletable class="- topic/simpletable " frame="none" id="unique_3_Connect_42_simpletable_ijp_jym_3kc" nd:nd-id="simpletable_ijp_jym_3kc" keycol="1" relcolwidth="1* 9*">
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">9V DC center-negative power jack.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">1/4" jack for the instrument cable. Labeled <b class="+ topic/ph hi-d/b ">IN</b> on the front
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="2">B</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="2">1/4" jack for the instrument cable. Labeled <uicontrol class="+ topic/ph ui-d/uicontrol ">IN</uicontrol> on the front
                             plate.</stentry></strow>
                 </simpletable>
             </p>
@@ -99,15 +99,15 @@
         <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_wqp_djs_3kc" nd:nd-id="prereq_wqp_djs_3kc">Before you begin, make sure the pedal has <xref class="- topic/xref " href="#unique_3" type="concept"><?ditaot usertext?>power<?ditaot genshortdesc?><desc class="- topic/desc ">The pedal requires 9V DC power to operate.</desc></xref>. </prereq><context class="- topic/section task/context ">Starting from basic settings, try to experiment with all the knobs to get an effect you
             enjoy.</context>
         <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Plug in the cable from your guitar into the <b class="+ topic/ph hi-d/b ">IN</b> jack input.</cmd>
+                <cmd class="- topic/ph task/cmd ">Plug in the cable from your guitar into the <uicontrol class="+ topic/ph ui-d/uicontrol ">IN</uicontrol> jack input.</cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Run a different cable from the pedal's <b class="+ topic/ph hi-d/b ">OUT</b> jack to your amplifier or
+                <cmd class="- topic/ph task/cmd ">Run a different cable from the pedal's <uicontrol class="+ topic/ph ui-d/uicontrol ">OUT</uicontrol> jack to your amplifier or
                     audio interface.</cmd>
             </step><step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">You can start off with the following settings on the pedal:</cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <ol class="- topic/ol " id="unique_4_Connect_42_ol_uzx_h4g_3kc" nd:nd-id="ol_uzx_h4g_3kc"><li class="- topic/li "><b class="+ topic/ph hi-d/b ">RELEASE</b>, <b class="+ topic/ph hi-d/b ">ATTACK</b>, <b class="+ topic/ph hi-d/b ">OUTPUT</b>, and <b class="+ topic/ph hi-d/b ">INPUT</b> knobs at
-                            12 o'clock. </li><li class="- topic/li "><b class="+ topic/ph hi-d/b ">RATIO</b> at 4 o'clock.</li></ol>
+                    <ol class="- topic/ol " id="unique_4_Connect_42_ol_uzx_h4g_3kc" nd:nd-id="ol_uzx_h4g_3kc"><li class="- topic/li "><uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol>, <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol>, <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol>, and <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knobs at
+                            12 o'clock. </li><li class="- topic/li "><uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> at 4 o'clock.</li></ol>
                     <fig class="- topic/fig " id="unique_4_Connect_42_fig_ppq_b4g_3kc" nd:nd-id="fig_ppq_b4g_3kc"><image class="- topic/image " height="150" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-settings.svg" id="unique_4_Connect_42_image_qpq_b4g_3kc" nd:nd-id="image_qpq_b4g_3kc" placement="inline">
                             <alt class="- topic/alt ">Basic settings</alt>
                         </image></fig>
@@ -115,7 +115,7 @@
             </step><step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Press the footswitch to turn on the pedal. </cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Looking at the <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter, rotate the <b class="+ topic/ph hi-d/b ">INPUT</b> knob so
+                <cmd class="- topic/ph task/cmd ">Looking at the <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter, rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knob so
                     that you see a range from 3 to 7 lights on the meter while playing your guitar
                     normally: </cmd>
                 <info class="- topic/itemgroup task/info ">
@@ -124,15 +124,15 @@
                         </image></fig>
                 </info>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">OUTPUT</b> knob to the desired overall volume.</cmd>
+                <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol> knob to the desired overall volume.</cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">ATTACK</b> knob clockwise to soften the initial attack of your
+                <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol> knob clockwise to soften the initial attack of your
                     note or counterclockwise to accentuate it. </cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Rotate the <b class="+ topic/ph hi-d/b ">RELEASE</b> knob clockwise to make the compression effect last
+                <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol> knob clockwise to make the compression effect last
                     longer or counterclockwise to make it fade faster.</cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Use the <b class="+ topic/ph hi-d/b ">RATIO</b> knob to define the strength of compression. The bigger the
+                <cmd class="- topic/ph task/cmd ">Use the <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> knob to define the strength of compression. The bigger the
                     setting (up to 20:1), the more volume will be decreased when compression is in
                     effect. For example, the 4:1 setting means that, for every 4dB over the
                     threshold, only 1dB comes through.</cmd>
@@ -154,10 +154,10 @@
         </section>
         <section class="- topic/section " id="unique_5_Connect_42_section_pmq_yvs_3kc" nd:nd-id="section_pmq_yvs_3kc">
             <title class="- topic/title ">Input and threshold</title>
-            <ul class="- topic/ul " id="unique_5_Connect_42_ul_cjy_zvs_3kc" nd:nd-id="ul_cjy_zvs_3kc"><li class="- topic/li ">When dialing in the <b class="+ topic/ph hi-d/b ">INPUT</b> knob, observe the <b class="+ topic/ph hi-d/b ">GAIN REDUCTION</b> meter.
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_cjy_zvs_3kc" nd:nd-id="ul_cjy_zvs_3kc"><li class="- topic/li ">When dialing in the <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knob, observe the <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter.
                     It shows how much the input signal is hitting the threshold.</li><li class="- topic/li ">If you want compression to apply only to the loudest peaks of your playing
-                    without affecting what you consider the normal range, make sure the <b class="+ topic/ph hi-d/b ">GAIN
-                        REDUCTION</b> meter does not go further than 3 LEDs while playing normally.
+                    without affecting what you consider the normal range, make sure the <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN
+                        REDUCTION</uicontrol> meter does not go further than 3 LEDs while playing normally.
                     In this case, the meter should only reach above 3 LEDs when you make your
                     loudest sounds. You might have to raise the ouput volume to compensate for the
                     lower input.</li></ul>
