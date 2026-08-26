@@ -20,11 +20,11 @@
         <section id="section_pmq_yvs_3kc">
             <title>Input and threshold</title>
             <ul id="ul_cjy_zvs_3kc">
-                <li>When dialing in the <b>INPUT</b> knob, observe the <b>GAIN REDUCTION</b> meter.
+                <li>When dialing in the <uicontrol>INPUT</uicontrol> knob, observe the <uicontrol>GAIN REDUCTION</uicontrol> meter.
                     It shows how much the input signal is hitting the threshold.</li>
                 <li>If you want compression to apply only to the loudest peaks of your playing
-                    without affecting what you consider the normal range, make sure the <b>GAIN
-                        REDUCTION</b> meter does not go further than 3 LEDs while playing normally.
+                    without affecting what you consider the normal range, make sure the <uicontrol>GAIN
+                        REDUCTION</uicontrol> meter does not go further than 3 LEDs while playing normally.
                     In this case, the meter should only reach above 3 LEDs when you make your
                     loudest sounds. You might have to raise the ouput volume to compensate for the
                     lower input.</li>

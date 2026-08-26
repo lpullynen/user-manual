@@ -9,19 +9,19 @@
             enjoy.</context>
         <steps>
             <step>
-                <cmd>Plug in the cable from your guitar into the <b>IN</b> jack input.</cmd>
+                <cmd>Plug in the cable from your guitar into the <uicontrol>IN</uicontrol> jack input.</cmd>
             </step>
             <step>
-                <cmd>Run a different cable from the pedal's <b>OUT</b> jack to your amplifier or
+                <cmd>Run a different cable from the pedal's <uicontrol>OUT</uicontrol> jack to your amplifier or
                     audio interface.</cmd>
             </step>
             <step>
                 <cmd>You can start off with the following settings on the pedal:</cmd>
                 <info>
                     <ol id="ol_uzx_h4g_3kc">
-                        <li><b>RELEASE</b>, <b>ATTACK</b>, <b>OUTPUT</b>, and <b>INPUT</b> knobs at
+                        <li><uicontrol>RELEASE</uicontrol>, <uicontrol>ATTACK</uicontrol>, <uicontrol>OUTPUT</uicontrol>, and <uicontrol>INPUT</uicontrol> knobs at
                             12 o'clock. </li>
-                        <li><b>RATIO</b> at 4 o'clock.</li>
+                        <li><uicontrol>RATIO</uicontrol> at 4 o'clock.</li>
                     </ol>
                     <fig id="fig_ppq_b4g_3kc">
                         <image placement="inline" href="images/basic-settings.svg"
@@ -35,7 +35,7 @@
                 <cmd>Press the footswitch to turn on the pedal. </cmd>
             </step>
             <step>
-                <cmd>Looking at the <b>GAIN REDUCTION</b> meter, rotate the <b>INPUT</b> knob so
+                <cmd>Looking at the <uicontrol>GAIN REDUCTION</uicontrol> meter, rotate the <uicontrol>INPUT</uicontrol> knob so
                     that you see a range from 3 to 7 lights on the meter while playing your guitar
                     normally: </cmd>
                 <info>
@@ -48,18 +48,18 @@
                 </info>
             </step>
             <step>
-                <cmd>Rotate the <b>OUTPUT</b> knob to the desired overall volume.</cmd>
+                <cmd>Rotate the <uicontrol>OUTPUT</uicontrol> knob to the desired overall volume.</cmd>
             </step>
             <step>
-                <cmd>Rotate the <b>ATTACK</b> knob clockwise to soften the initial attack of your
+                <cmd>Rotate the <uicontrol>ATTACK</uicontrol> knob clockwise to soften the initial attack of your
                     note or counterclockwise to accentuate it. </cmd>
             </step>
             <step>
-                <cmd>Rotate the <b>RELEASE</b> knob clockwise to make the compression effect last
+                <cmd>Rotate the <uicontrol>RELEASE</uicontrol> knob clockwise to make the compression effect last
                     longer or counterclockwise to make it fade faster.</cmd>
             </step>
             <step>
-                <cmd>Use the <b>RATIO</b> knob to define the strength of compression. The bigger the
+                <cmd>Use the <uicontrol>RATIO</uicontrol> knob to define the strength of compression. The bigger the
                     setting (up to 20:1), the more volume will be decreased when compression is in
                     effect. For example, the 4:1 setting means that, for every 4dB over the
                     threshold, only 1dB comes through.</cmd>

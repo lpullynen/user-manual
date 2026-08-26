@@ -15,37 +15,37 @@
                     id="simpletable_xh1_2xg_3kc">
                     <strow>
                         <stentry>A</stentry>
-                        <stentry>The <b>GAIN REDUCTION</b> meter shows the level of compression
+                        <stentry>The <uicontrol>GAIN REDUCTION</uicontrol> meter shows the level of compression
                                 applied in real time. If it doesn't light up, it means that the
                                 input signal has not reached the fixed threshold for
                                 compression.</stentry>
                     </strow>
                     <strow>
                         <stentry>B</stentry>
-                        <stentry>The <b>RELEASE</b> knob controls how quickly compression stops
+                        <stentry>The <uicontrol>RELEASE</uicontrol> knob controls how quickly compression stops
                             after the signal falls back down.</stentry>
                     </strow>
                     <strow>
                         <stentry>C</stentry>
-                        <stentry>The <b>ATTACK</b> knob controls how quickly compression is applied
+                        <stentry>The <uicontrol>ATTACK</uicontrol> knob controls how quickly compression is applied
                             after a note is played.</stentry>
                     </strow>
                     <strow>
                         <stentry>D</stentry>
-                        <stentry>The <b>RATIO</b> determines how strongly the signal is compressed
+                        <stentry>The <uicontrol>RATIO</uicontrol> determines how strongly the signal is compressed
                             once it exceeds the threshold. </stentry>
                     </strow>
                     <strow>
                         <stentry>E</stentry>
-                        <stentry>The <b>OUTPUT</b> knob controls the overall volume of the signal
-                            coming out of the pedal. The <b>OUT</b> 1/4" jack on the side of the
+                        <stentry>The <uicontrol>OUTPUT</uicontrol> knob controls the overall volume of the signal
+                            coming out of the pedal. The <uicontrol>OUT</uicontrol> 1/4" jack on the side of the
                             pedal connects to an amplifier or other pedals with an instrument
                             cable.</stentry>
                     </strow>
                     <strow>
                         <stentry>F</stentry>
-                        <stentry>The <b>INPUT</b> knob controls the gain of initial signal coming
-                                out of your guitar. The <b>IN</b> 1/4" jack on the side of the pedal
+                        <stentry>The <uicontrol>INPUT</uicontrol> knob controls the gain of initial signal coming
+                                out of your guitar. The <uicontrol>IN</uicontrol> 1/4" jack on the side of the pedal
                                 connects to the guitar with an instrument cable.</stentry>
                     </strow>
                     <strow>

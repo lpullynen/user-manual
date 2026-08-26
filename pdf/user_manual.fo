@@ -118,7 +118,7 @@
                                                 <fo:table-and-caption border-collapse="collapse" id="unique_2_Connect_42_simpletable_xh1_2xg_3kc" space-before="1em" space-after="1em"><fo:table relative-align="baseline" chfox:html-table-width-policy="yes" table-layout="auto" border-bottom-color="black" border-bottom-width="2pt" border-bottom-style="none" border-left-color="black" border-left-width="2pt" border-left-style="none" border-right-color="black" border-right-width="2pt" border-right-style="none" border-top-color="black" border-top-width="2pt" border-top-style="none" hyphenate="true" chfox:nd-id="simpletable_xh1_2xg_3kc" space-before="0" space-after="0"><fo:table-column column-width="10%"/><fo:table-column column-width="90%"/><fo:table-body display-align="before">
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>A</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">GAIN
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">GAIN
                                                   REDUCTION</fo:inline> meter shows the level of
                                                   compression applied in real time. If it doesn't
                                                   light up, it means that the input signal has not
@@ -126,32 +126,32 @@
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>B</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">RELEASE</fo:inline> knob controls how quickly
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">RELEASE</fo:inline> knob controls how quickly
                                                   compression stops after the signal falls back
                                                   down.</fo:block></fo:table-cell>
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>C</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">ATTACK</fo:inline> knob controls how quickly
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">ATTACK</fo:inline> knob controls how quickly
                                                   compression is applied after a note is
                                                   played.</fo:block></fo:table-cell>
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>D</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">RATIO</fo:inline> determines how strongly the signal
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">RATIO</fo:inline> determines how strongly the signal
                                                   is compressed once it exceeds the threshold. </fo:block></fo:table-cell>
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>E</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">OUTPUT</fo:inline> knob controls the overall volume
-                                                  of the signal coming out of the pedal. The <fo:inline font-weight="bold">OUT</fo:inline> 1/4" jack on the side of the pedal
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">OUTPUT</fo:inline> knob controls the overall volume of
+                                                  the signal coming out of the pedal. The <fo:inline font-weight="700">OUT</fo:inline> 1/4" jack on the side of the pedal
                                                   connects to an amplifier or other pedals with an
                                                   instrument cable.</fo:block></fo:table-cell>
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>F</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="bold">INPUT</fo:inline> knob controls the gain of initial
-                                                  signal coming out of your guitar. The <fo:inline font-weight="bold">IN</fo:inline> 1/4" jack on the side of the pedal
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="1px" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>The <fo:inline font-weight="700">INPUT</fo:inline> knob controls the gain of initial
+                                                  signal coming out of your guitar. The <fo:inline font-weight="700">IN</fo:inline> 1/4" jack on the side of the pedal
                                                   connects to the guitar with an instrument
                                                   cable.</fo:block></fo:table-cell>
                                                   </fo:table-row>
@@ -183,8 +183,8 @@
                                         <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">• </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>A 9V AC/DC
                                             adapter. Connect it either to a standard AC wall socket
                                             or a compatible power supply. Plug the power connector
-                                            into the power jack next to the <fo:inline font-weight="bold">IN</fo:inline> jack for the
-                                            instrument. </fo:block></fo:list-item-body></fo:list-item>
+                                            into the power jack next to the <fo:inline font-weight="700">IN</fo:inline>
+                                            jack for the instrument. </fo:block></fo:list-item-body></fo:list-item>
                                     </fo:list-block></fo:block></fo:block-container>
                                 <fo:block>
                                     <fo:inline space-start="40px" space-end="40px"><fo:inline-container vertical-align="top" width="45%"><fo:block-container margin="0" font-size="0pt" role="Figure" id="unique_3_Connect_42_fig_w5r_3ym_3kc" chfox:nd-id="fig_w5r_3ym_3kc"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" width="100%" id="unique_3_Connect_42_image_gs2_gnm_3kc" chfox:nd-id="image_gs2_gnm_3kc"><fo:inline><fo:external-graphic src="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/side-profile.svg" max-width="100%" scaling="uniform" width="100%" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container></fo:inline-container></fo:inline>
@@ -197,8 +197,7 @@
                                                   </fo:table-row>
                                                   <fo:table-row display-align="before">
                                                   <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="0" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="1px" font-weight="bold" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" text-align="center"><fo:block>B</fo:block></fo:table-cell>
-                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="0" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>1/4" jack for the instrument cable. Labeled
-                                                  <fo:inline font-weight="bold">IN</fo:inline> on the front plate.</fo:block></fo:table-cell>
+                                                  <fo:table-cell start-indent="0" end-indent="0" border-bottom-color="rgb(0 , 0 , 0)" border-bottom-style="solid" border-bottom-width="0" border-right-color="rgb(0 , 0 , 0)" border-right-style="solid" border-right-width="0" padding-bottom="0.3em" padding-left="0.3em" padding-right="0.3em" padding-top="0.3em" display-align="before"><fo:block>1/4" jack for the instrument cable. Labeled <fo:inline font-weight="700">IN</fo:inline> on the front plate.</fo:block></fo:table-cell>
                                                   </fo:table-row>
                                                 </fo:table-body></fo:table></fo:table-and-caption>
                                         </fo:block>
@@ -220,11 +219,11 @@
                                     <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em">
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">1. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
                                             <fo:inline>Plug in the cable from your
-                                                guitar into the <fo:inline font-weight="bold">IN</fo:inline> jack input.</fo:inline>
+                                                guitar into the <fo:inline font-weight="700">IN</fo:inline> jack input.</fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">2. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
                                             <fo:inline>Run a different cable from the
-                                                pedal's <fo:inline font-weight="bold">OUT</fo:inline> jack to your amplifier or audio
+                                                pedal's <fo:inline font-weight="700">OUT</fo:inline> jack to your amplifier or audio
                                                 interface.</fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">3. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
@@ -232,8 +231,8 @@
                                                 following settings on the pedal:</fo:inline>
                                             <fo:block>
                                                 <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="0em" space-before="0em" id="unique_4_Connect_42_ol_uzx_h4g_3kc" chfox:nd-id="ol_uzx_h4g_3kc">
-                                                  <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">a. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline font-weight="bold">RELEASE</fo:inline>, <fo:inline font-weight="bold">ATTACK</fo:inline>, <fo:inline font-weight="bold">OUTPUT</fo:inline>, and <fo:inline font-weight="bold">INPUT</fo:inline> knobs at 12 o'clock. </fo:block></fo:list-item-body></fo:list-item>
-                                                  <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">b. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline font-weight="bold">RATIO</fo:inline> at 4 o'clock.</fo:block></fo:list-item-body></fo:list-item>
+                                                  <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">a. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline font-weight="700">RELEASE</fo:inline>, <fo:inline font-weight="700">ATTACK</fo:inline>, <fo:inline font-weight="700">OUTPUT</fo:inline>, and <fo:inline font-weight="700">INPUT</fo:inline> knobs at 12 o'clock. </fo:block></fo:list-item-body></fo:list-item>
+                                                  <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">b. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:inline font-weight="700">RATIO</fo:inline> at 4 o'clock.</fo:block></fo:list-item-body></fo:list-item>
                                                 </fo:list-block>
                                                 <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" role="Figure" id="unique_4_Connect_42_fig_ppq_b4g_3kc" chfox:nd-id="fig_ppq_b4g_3kc"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" height="150px" max-width="100%" id="unique_4_Connect_42_image_qpq_b4g_3kc" chfox:nd-id="image_qpq_b4g_3kc"><fo:inline><fo:external-graphic src="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-settings.svg" fox:alt-text="Basic settings" max-width="100%" scaling="uniform" height="150px" content-height="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                             </fo:block>
@@ -243,30 +242,30 @@
                                                 the pedal. </fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">5. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block><fo:block-container><fo:block start-indent="0" end-indent="0">
-                                            <fo:inline>Looking at the <fo:inline font-weight="bold">GAIN
-                                                  REDUCTION</fo:inline> meter, rotate the <fo:inline font-weight="bold">INPUT</fo:inline> knob so that you see a range from
-                                                3 to 7 lights on the meter while playing your guitar
+                                            <fo:inline>Looking at the <fo:inline font-weight="700">GAIN
+                                                  REDUCTION</fo:inline> meter, rotate the <fo:inline font-weight="700">INPUT</fo:inline> knob so that you see a range from 3
+                                                to 7 lights on the meter while playing your guitar
                                                 normally: </fo:inline>
                                             <fo:block>
                                                 <fo:block-container space-after="1em" margin-left="40px" margin-right="40px" space-before="1em" role="Figure" id="unique_4_Connect_42_fig_i3z_5mg_3kc" chfox:nd-id="fig_i3z_5mg_3kc"><fo:block end-indent="0" start-indent="0"><fo:inline chfox:inch="true" max-width="100%" id="unique_4_Connect_42_image_j3z_5mg_3kc" chfox:nd-id="image_j3z_5mg_3kc"><fo:inline><fo:external-graphic src="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-gain-reduction.svg" fox:alt-text="Basic gain reduction" max-width="100%" content-width="scale-to-fit"/></fo:inline></fo:inline></fo:block></fo:block-container>
                                             </fo:block>
                                         </fo:block></fo:block-container></fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">6. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
-                                            <fo:inline>Rotate the <fo:inline font-weight="bold">OUTPUT</fo:inline> knob to the desired overall
+                                            <fo:inline>Rotate the <fo:inline font-weight="700">OUTPUT</fo:inline> knob to the desired overall
                                                 volume.</fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">7. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
-                                            <fo:inline>Rotate the <fo:inline font-weight="bold">ATTACK</fo:inline> knob clockwise to soften the
+                                            <fo:inline>Rotate the <fo:inline font-weight="700">ATTACK</fo:inline> knob clockwise to soften the
                                                 initial attack of your note or counterclockwise to
                                                 accentuate it. </fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">8. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
-                                            <fo:inline>Rotate the <fo:inline font-weight="bold">RELEASE</fo:inline> knob clockwise to make the
+                                            <fo:inline>Rotate the <fo:inline font-weight="700">RELEASE</fo:inline> knob clockwise to make the
                                                 compression effect last longer or counterclockwise
                                                 to make it fade faster.</fo:inline>
                                         </fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item space-after="1em" space-before="1em"><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">9. </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>
-                                            <fo:inline>Use the <fo:inline font-weight="bold">RATIO</fo:inline> knob to define the strength of
+                                            <fo:inline>Use the <fo:inline font-weight="700">RATIO</fo:inline> knob to define the strength of
                                                 compression. The bigger the setting (up to 20:1),
                                                 the more volume will be decreased when compression
                                                 is in effect. For example, the 4:1 setting means
@@ -309,18 +308,18 @@
                                         and threshold</fo:block></fo:block-container>
                                     <fo:list-block relative-align="baseline" provisional-label-separation="3pt" provisional-distance-between-starts="40px" space-after="1.33em" space-before="1.33em" id="unique_5_Connect_42_ul_cjy_zvs_3kc" chfox:nd-id="ul_cjy_zvs_3kc">
                                         <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">• </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>When
-                                            dialing in the <fo:inline font-weight="bold">INPUT</fo:inline> knob, observe the <fo:inline font-weight="bold">GAIN REDUCTION</fo:inline>
-                                            meter. It shows how much the input signal is hitting the
-                                            threshold.</fo:block></fo:list-item-body></fo:list-item>
+                                            dialing in the <fo:inline font-weight="700">INPUT</fo:inline> knob, observe the <fo:inline font-weight="700">GAIN
+                                                REDUCTION</fo:inline> meter. It shows how much the input
+                                            signal is hitting the threshold.</fo:block></fo:list-item-body></fo:list-item>
                                         <fo:list-item><fo:list-item-label end-indent="label-end()"><fo:block text-align="end">• </fo:block></fo:list-item-label><fo:list-item-body start-indent="body-start()"><fo:block>If you
                                             want compression to apply only to the loudest peaks of
                                             your playing without affecting what you consider the
-                                            normal range, make sure the <fo:inline font-weight="bold">GAIN REDUCTION</fo:inline> meter
-                                            does not go further than 3 LEDs while playing normally.
-                                            In this case, the meter should only reach above 3 LEDs
-                                            when you make your loudest sounds. You might have to
-                                            raise the ouput volume to compensate for the lower
-                                            input.</fo:block></fo:list-item-body></fo:list-item>
+                                            normal range, make sure the <fo:inline font-weight="700">GAIN
+                                                REDUCTION</fo:inline> meter does not go further than 3
+                                            LEDs while playing normally. In this case, the meter
+                                            should only reach above 3 LEDs when you make your
+                                            loudest sounds. You might have to raise the ouput volume
+                                            to compensate for the lower input.</fo:block></fo:list-item-body></fo:list-item>
                                     </fo:list-block>
                                 </fo:block></fo:block-container>
                                 <fo:block-container space-after="1em" space-before="1em" role="Sect" id="unique_5_Connect_42_section_jtn_txs_3kc" chfox:nd-id="section_jtn_txs_3kc"><fo:block end-indent="0" start-indent="0">
