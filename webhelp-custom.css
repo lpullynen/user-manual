@@ -99,3 +99,7 @@
     transition: transform 0.2s ease;
     box-shadow: none;
 }
+
+.figcap {
+    display: none;
+}
