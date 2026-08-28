@@ -44,9 +44,9 @@
     <shortdesc class="- topic/shortdesc ">Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc>
     <refbody class="- topic/body        reference/refbody "><section class="- topic/section ">
         <div class="- topic/div " outputclass="side-by-side">
-            <fig class="- topic/fig " id="unique_2_Connect_42_fig_ldr_dhf_3kc" nd:nd-id="fig_ldr_dhf_3kc"><image class="- topic/image " dita-ot:image-width="513" dita-ot:image-height="469" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/controls.svg" id="unique_2_Connect_42_image_mdr_dhf_3kc" nd:nd-id="image_mdr_dhf_3kc" placement="inline">
-                    <alt class="- topic/alt ">M87 Bass Compressor Controls</alt>
-                </image></fig>
+            <fig class="- topic/fig " id="unique_2_Connect_42_controls" nd:nd-id="controls"><image class="- topic/image " dita-ot:image-width="513" dita-ot:image-height="469" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/controls.svg" id="unique_2_Connect_42_image_mdr_dhf_3kc" nd:nd-id="image_mdr_dhf_3kc" placement="inline">
+                        <alt class="- topic/alt ">M87 Bass Compressor Controls</alt>
+                    </image><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">M87 Bass Compressor controls</ph></title></fig>
             <p class="- topic/p ">
                 <simpletable class="- topic/simpletable " frame="none" id="unique_2_Connect_42_simpletable_xh1_2xg_3kc" nd:nd-id="simpletable_xh1_2xg_3kc" keycol="1" relcolwidth="1* 9*">
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">The <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter shows the level of compression
@@ -57,8 +57,8 @@
                             after the signal falls back down.</stentry></strow>
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="3">C</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="3">The <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol> knob controls how quickly compression is applied
                             after a note is played.</stentry></strow>
-                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">D</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">The <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> determines how strongly the signal is compressed
-                            once it exceeds the threshold. </stentry></strow>
+                    <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="4">D</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="4">The <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> knob determines how strongly the
+                                signal is compressed once it exceeds the threshold. </stentry></strow>
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="5">E</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="5">The <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol> knob controls the overall volume of the signal
                             coming out of the pedal. The <uicontrol class="+ topic/ph ui-d/uicontrol ">OUT</uicontrol> 1/4" jack on the side of the
                             pedal connects to an amplifier or other pedals with an instrument
@@ -82,7 +82,7 @@
                     compatible power supply. Plug the power connector into the power jack next to
                     the <uicontrol class="+ topic/ph ui-d/uicontrol ">IN</uicontrol> jack for the instrument. </li></ul></p>
         <div class="- topic/div " outputclass="side-by-side">
-            <fig class="- topic/fig " id="unique_3_Connect_42_fig_w5r_3ym_3kc" nd:nd-id="fig_w5r_3ym_3kc"><image class="- topic/image " dita-ot:image-width="522" dita-ot:image-height="292" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/side-profile.svg" id="unique_3_Connect_42_image_gs2_gnm_3kc" nd:nd-id="image_gs2_gnm_3kc" placement="inline"/></fig>
+            <fig class="- topic/fig " id="unique_3_Connect_42_side-profile" nd:nd-id="side-profile"><image class="- topic/image " dita-ot:image-width="522" dita-ot:image-height="292" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/side-profile.svg" id="unique_3_Connect_42_image_gs2_gnm_3kc" nd:nd-id="image_gs2_gnm_3kc" placement="inline"/><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Side profile</ph></title></fig>
             <p class="- topic/p ">
                 <simpletable class="- topic/simpletable " frame="none" id="unique_3_Connect_42_simpletable_ijp_jym_3kc" nd:nd-id="simpletable_ijp_jym_3kc" keycol="1" relcolwidth="1* 9*">
                     <strow class="- topic/strow "><stentry class="- topic/stentry " dita-ot:x="1" dita-ot:y="1">A</stentry><stentry class="- topic/stentry " dita-ot:x="2" dita-ot:y="1">9V DC center-negative power jack.</stentry></strow>
@@ -108,9 +108,9 @@
                 <info class="- topic/itemgroup task/info ">
                     <ol class="- topic/ol " id="unique_4_Connect_42_ol_uzx_h4g_3kc" nd:nd-id="ol_uzx_h4g_3kc"><li class="- topic/li "><uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol>, <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol>, <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol>, and <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knobs at
                             12 o'clock. </li><li class="- topic/li "><uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> at 4 o'clock.</li></ol>
-                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_ppq_b4g_3kc" nd:nd-id="fig_ppq_b4g_3kc"><image class="- topic/image " height="150" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-settings.svg" id="unique_4_Connect_42_image_qpq_b4g_3kc" nd:nd-id="image_qpq_b4g_3kc" placement="inline">
+                    <fig class="- topic/fig " id="unique_4_Connect_42_basic-settings" nd:nd-id="basic-settings"><image class="- topic/image " height="150" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-settings.svg" id="unique_4_Connect_42_image_qpq_b4g_3kc" nd:nd-id="image_qpq_b4g_3kc" placement="inline">
                             <alt class="- topic/alt ">Basic settings</alt>
-                        </image></fig>
+                        </image><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Basic compression settings</ph></title></fig>
                 </info>
             </step><step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Press the footswitch to turn on the pedal. </cmd>
@@ -119,9 +119,9 @@
                     that you see a range from 3 to 7 lights on the meter while playing your guitar
                     normally: </cmd>
                 <info class="- topic/itemgroup task/info ">
-                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_i3z_5mg_3kc" nd:nd-id="fig_i3z_5mg_3kc"><image class="- topic/image " dita-ot:image-width="114" dita-ot:image-height="51" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-gain-reduction.svg" id="unique_4_Connect_42_image_j3z_5mg_3kc" nd:nd-id="image_j3z_5mg_3kc" placement="inline">
+                    <fig class="- topic/fig " id="unique_4_Connect_42_fig_i3z_5mg_3kc" nd:nd-id="fig_i3z_5mg_3kc"><image class="- topic/image " dita-ot:image-width="228" dita-ot:image-height="51" href="file:/Users/levpullynen/Documents/oxygen%20projects/user-manual/images/basic-gain-reduction.svg" id="unique_4_Connect_42_basic-gain-reduction" nd:nd-id="basic-gain-reduction" placement="inline">
                             <alt class="- topic/alt ">Basic gain reduction</alt>
-                        </image></fig>
+                        </image><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Meter readings for basic compression</ph></title></fig>
                 </info>
             </step><step class="- topic/li task/step ">
                 <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">OUTPUT</uicontrol> knob to the desired overall volume.</cmd>
@@ -129,16 +129,17 @@
                 <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">ATTACK</uicontrol> knob clockwise to soften the initial attack of your
                     note or counterclockwise to accentuate it. </cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol> knob clockwise to make the compression effect last
-                    longer or counterclockwise to make it fade faster.</cmd>
+                <cmd class="- topic/ph task/cmd ">Rotate the <uicontrol class="+ topic/ph ui-d/uicontrol ">RELEASE</uicontrol> knob clockwise to make the
+                    compression effect last longer or counterclockwise to make it fade faster.</cmd>
             </step><step class="- topic/li task/step ">
-                <cmd class="- topic/ph task/cmd ">Use the <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> knob to define the strength of compression. The bigger the
-                    setting (up to 20:1), the more volume will be decreased when compression is in
-                    effect. For example, the 4:1 setting means that, for every 4dB over the
-                    threshold, only 1dB comes through.</cmd>
+                <cmd class="- topic/ph task/cmd ">Use the <uicontrol class="+ topic/ph ui-d/uicontrol ">RATIO</uicontrol> knob to define the strength of
+                    compression. The bigger the setting (up to 20:1), the more volume will be
+                    decreased when compression is in effect. For example, the 4:1 setting means
+                    that, for every 4 dB over the threshold, only 1 dB comes through.</cmd>
             </step></steps>
-        <result class="- topic/section task/result " id="unique_4_Connect_42_result_pch_mqs_3kc" nd:nd-id="result_pch_mqs_3kc">Once you have dialed in the compression, you can start
-            playing as-is or add other effects after the compressor in your signal chain.</result></taskbody>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_pch_mqs_3kc" nd:nd-id="result_pch_mqs_3kc">Once you have dialed in the desired compression, you can
+            start playing as-is or add other effects after the compressor in your signal
+            chain.</result></taskbody>
 </task><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="best_practices" oid="best_practices" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Best practices</ph></title>
     <shortdesc class="- topic/shortdesc ">Things to keep in mind when using compression.</shortdesc>
@@ -156,11 +157,11 @@
             <title class="- topic/title ">Input and threshold</title>
             <ul class="- topic/ul " id="unique_5_Connect_42_ul_cjy_zvs_3kc" nd:nd-id="ul_cjy_zvs_3kc"><li class="- topic/li ">When dialing in the <uicontrol class="+ topic/ph ui-d/uicontrol ">INPUT</uicontrol> knob, observe the <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter.
                     It shows how much the input signal is hitting the threshold.</li><li class="- topic/li ">If you want compression to apply only to the loudest peaks of your playing
-                    without affecting what you consider the normal range, make sure the <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN
-                        REDUCTION</uicontrol> meter does not go further than 3 LEDs while playing normally.
-                    In this case, the meter should only reach above 3 LEDs when you make your
-                    loudest sounds. You might have to raise the ouput volume to compensate for the
-                    lower input.</li></ul>
+                    without affecting what you consider the normal range, make sure the
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">GAIN REDUCTION</uicontrol> meter does not go further than 3 LEDs
+                    while playing normally. In this case, the meter should only reach above 3 LEDs
+                    when you make your loudest sounds. You might have to raise the output volume to
+                    compensate for the lower input.</li></ul>
         </section>
         <section class="- topic/section " id="unique_5_Connect_42_section_jtn_txs_3kc" nd:nd-id="section_jtn_txs_3kc">
             <title class="- topic/title ">Other tips</title>

@@ -5,11 +5,12 @@
     <shortdesc>Use the pedal’s control knobs to shape how your signal is compressed. </shortdesc>
     <refbody><section>
         <div outputclass="side-by-side">
-            <fig id="fig_ldr_dhf_3kc">
-                <image href="images/controls.svg" id="image_mdr_dhf_3kc">
-                    <alt>M87 Bass Compressor Controls</alt>
-                </image>
-            </fig>
+            <fig id="controls">
+                    <title>M87 Bass Compressor controls</title>
+                    <image href="images/controls.svg" id="image_mdr_dhf_3kc">
+                        <alt>M87 Bass Compressor Controls</alt>
+                    </image>
+                </fig>
             <p>
                 <simpletable keycol="1" frame="none" relcolwidth="1* 9*"
                     id="simpletable_xh1_2xg_3kc">
@@ -32,8 +33,8 @@
                     </strow>
                     <strow>
                         <stentry>D</stentry>
-                        <stentry>The <uicontrol>RATIO</uicontrol> determines how strongly the signal is compressed
-                            once it exceeds the threshold. </stentry>
+                        <stentry>The <uicontrol>RATIO</uicontrol> knob determines how strongly the
+                                signal is compressed once it exceeds the threshold. </stentry>
                     </strow>
                     <strow>
                         <stentry>E</stentry>

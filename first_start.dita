@@ -23,7 +23,8 @@
                             12 o'clock. </li>
                         <li><uicontrol>RATIO</uicontrol> at 4 o'clock.</li>
                     </ol>
-                    <fig id="fig_ppq_b4g_3kc">
+                    <fig id="basic-settings">
+                        <title>Basic compression settings</title>
                         <image placement="inline" href="images/basic-settings.svg"
                             id="image_qpq_b4g_3kc" height="150">
                             <alt>Basic settings</alt>
@@ -40,8 +41,9 @@
                     normally: </cmd>
                 <info>
                     <fig id="fig_i3z_5mg_3kc">
+                        <title>Meter readings for basic compression</title>
                         <image placement="inline" href="images/basic-gain-reduction.svg"
-                            id="image_j3z_5mg_3kc">
+                            id="basic-gain-reduction">
                             <alt>Basic gain reduction</alt>
                         </image>
                     </fig>
@@ -55,16 +57,17 @@
                     note or counterclockwise to accentuate it. </cmd>
             </step>
             <step>
-                <cmd>Rotate the <uicontrol>RELEASE</uicontrol> knob clockwise to make the compression effect last
-                    longer or counterclockwise to make it fade faster.</cmd>
+                <cmd>Rotate the <uicontrol>RELEASE</uicontrol> knob clockwise to make the
+                    compression effect last longer or counterclockwise to make it fade faster.</cmd>
             </step>
             <step>
-                <cmd>Use the <uicontrol>RATIO</uicontrol> knob to define the strength of compression. The bigger the
-                    setting (up to 20:1), the more volume will be decreased when compression is in
-                    effect. For example, the 4:1 setting means that, for every 4dB over the
-                    threshold, only 1dB comes through.</cmd>
+                <cmd>Use the <uicontrol>RATIO</uicontrol> knob to define the strength of
+                    compression. The bigger the setting (up to 20:1), the more volume will be
+                    decreased when compression is in effect. For example, the 4:1 setting means
+                    that, for every 4 dB over the threshold, only 1 dB comes through.</cmd>
             </step>
         </steps>
-        <result id="result_pch_mqs_3kc">Once you have dialed in the compression, you can start
-            playing as-is or add other effects after the compressor in your signal chain.</result></taskbody>
+        <result id="result_pch_mqs_3kc">Once you have dialed in the desired compression, you can
+            start playing as-is or add other effects after the compressor in your signal
+            chain.</result></taskbody>
 </task>

@@ -22,11 +22,10 @@
 
 *[outputclass ~= "side-by-side"] > *[class ~= "topic/fig"] {
     vertical-align:top;
-    font-size:0pt;
 }
 
 @page {
-    @top-left-corner {
+    @top-right-corner {
         content: " ";
         background-image: url('images/mxr-logo-black.svg');
         background-repeat: no-repeat;
@@ -50,4 +49,8 @@
 
 *[class ~= "map/map"] > *[class ~= "toc/toc"] + *[class ~= "topic/topic"]{
     counter-reset: page 1;
+}
+
+*[class ~= "reference/properties"] *[class ~= "reference/property"] {
+    font-size: smaller;
 }
